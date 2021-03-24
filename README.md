@@ -1,4 +1,4 @@
-Please follow the steps to configure the project
+**Please follow the steps to configure the project**
 
 Clone the project to your server
 
@@ -16,5 +16,7 @@ Run 'php artisan serve' from your project directory you will get something like 
 
 Copy paste the started server address to your browser to launch the app. (I've got this address 'http://127.0.0.1:8000')
 
-You can also check the app using my heroku link
+
+**You can also check the app using my heroku link**
+
 http://todoappusinglaravel.herokuapp.com/
